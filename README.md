@@ -1,5 +1,7 @@
 # Data-Science.Banco-de-dados
 
+Para executar os exercícios 3, 4 e 5 populei o banco de dados com queries do chatGPT.
+
 ### Resultado da Query do Exercício 3
 ![image](https://github.com/lauramuglia/Data-Science.Banco-de-dados/assets/141880070/b9333470-4358-4793-abda-8156bc5a49e6)
 
